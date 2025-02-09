@@ -6,7 +6,7 @@ Student
 
 l've been learning llm, rag, langchain . I'm student Mae fha luang university.
 
-* 🌍  I'm based in Chaingmai/Chaingrai
+* 🌍  I'm based in Chiangmai/Chiangrai
 * ✉️  You can contact me at [6531503009@lamduan.mfu.ac.th](mailto:6531503009@lamduan.mfu.ac.th)
 
 ### Skills
