@@ -2,7 +2,7 @@
 
 ## 🎓 Software Engineering Student | Mae Fah Luang University
 
-![MFU Logo](https://upload.wikimedia.org/wikipedia/th/thumb/8/8c/Mae_Fah_Luang_University_Logo.png/200px-Mae_Fah_Luang_University_Logo.png)
+
 
 ### 🚀 About Me
 - 📍 3rd year software engineering student, Mae Fah Luang University
