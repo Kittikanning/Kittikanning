@@ -37,18 +37,18 @@
 - เทคโนโลยีที่ใช้
 - บทบาทและความท้าทาย
 
-### 🤝 ติดต่อ
+### 🤝 Contact
 
   <a href="mailto:6531503009@lamduan.mfu.ac.th">
-    <img src="https://img.shields.io/badge/Email-ติดต่อ-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
 
-### 💬 คำคมประจำใจ
-> "การเรียนรู้คือพลังที่ยิ่งใหญ่ที่สุด" - Unknown
+### 💬 Favorite quotes
+> "Learning is the greatest power" - Unknown
 
 ---
-### 🔍 กำลังมองหาโอกาส
+### 🔍 Looking for opportunities
 **สนใจ:**
 - Software Development Internship
 - Opportunity to learn new technologies
