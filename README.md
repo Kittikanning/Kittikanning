@@ -1,62 +1,66 @@
-# 👨‍💻 [KITTIKAN  KITI] | Software Engineering
+# 👋 Hello World! I'm [Your Name]
 
-## 🚀 Professional Summary
+## 🌱 Junior Developer | Tech Enthusiast | Lifelong Learner
 
+![Coding GIF](https://media.giphy.com/media/배너_짧은_gif/giphy.gif)
 
-## 🔬 Technical Expertise
-### Languages & Technologies
+## 🚀 About Me
+- 💻 Fresh graduate passionate about software development
+- 🌍 Constantly learning and exploring new technologies
+- 🔍 Eager to grow and contribute to innovative projects
+- 📚 Turning coffee into code, one commit at a time!
+
+## 🛠️ My Tech Toolkit
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 💼 Professional Highlights
-- 🏆 Developed [X] enterprise-level applications improving business efficiency by [Y]%
-- 🌐 Created scalable microservices architecture reducing system latency by 40%
-- 🤝 Collaborated with cross-functional teams to deliver mission-critical projects
-- 💡 Implemented innovative solutions that increased team productivity
+## 🌈 Learning Journey
+- 🏫 Graduated from [Your University Name]
+- 📖 Currently diving deep into [Current Technology/Framework]
+- 🎓 Completed courses on [Relevant Online Platforms]
 
+## 📊 My GitHub Adventure
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
+</p>
 
-
-## 🏅 Professional Certifications
-- ✅ [Certification Name] from [Issuing Organization]
-- ✅ [Another Certification] 
-- ✅ [Professional Training or Specialization]
-
-## 🌟 Key Projects
+## 🌟 Projects I'm Proud Of
 ### 🔹 [Project Name 1]
-- Brief description of the project
+- Brief description of a personal or academic project
 - Technologies used
-- Key achievements or impact
+- What I learned from this project
 
 ### 🔹 [Project Name 2]
-- Brief description of the project
-- Technologies used
-- Key achievements or impact
+- Another project showcasing your skills
+- Challenges overcome
+- Skills developed
 
-## 🤝 Professional Networks
+## 🤝 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.professional.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-## 💬 Professional Philosophy
-> "Continuous improvement is not just a strategy, it's a way of life in software development."
+## 💬 My Coding Mantra
+> "I'm not a great programmer; I'm just a good programmer with great habits." - Kent Beck
 
 ---
 ### 🔍 Open to Opportunities
-**Currently seeking:** 
-- 
-- 
-- 
+**Seeking:** 
+- Junior Developer Roles
+- Internships
+- Learning Opportunities
 
 *Last updated: [Current Month Year]*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
