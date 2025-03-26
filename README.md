@@ -49,7 +49,7 @@
 
 ---
 ### 🔍 Looking for opportunities
-**สนใจ:**
+**interested:**
 - Software Development Internship
 - Opportunity to learn new technologies
 - Practical skills development
