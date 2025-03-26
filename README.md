@@ -1,7 +1,7 @@
-# 👨‍💻 [Your Full Name] | Software Developer
+# 👨‍💻 [KITTIKAN  KITI] | Software Engineering
 
 ## 🚀 Professional Summary
-Innovative and results-driven software developer with a passion for creating efficient, scalable solutions. Proven track record of delivering high-quality software applications and solving complex technical challenges.
+
 
 ## 🔬 Technical Expertise
 ### Languages & Technologies
@@ -21,11 +21,7 @@ Innovative and results-driven software developer with a passion for creating eff
 - 🤝 Collaborated with cross-functional teams to deliver mission-critical projects
 - 💡 Implemented innovative solutions that increased team productivity
 
-## 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" height="180em"/>
-</p>
+
 
 ## 🏅 Professional Certifications
 - ✅ [Certification Name] from [Issuing Organization]
@@ -59,8 +55,8 @@ Innovative and results-driven software developer with a passion for creating eff
 ---
 ### 🔍 Open to Opportunities
 **Currently seeking:** 
-- Senior Software Developer roles
-- Full-stack Development positions
-- Technical Lead opportunities
+- 
+- 
+- 
 
 *Last updated: [Current Month Year]*
