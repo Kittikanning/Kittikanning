@@ -20,15 +20,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## 🌈 Learning Journey
-- 🏫 Graduated from [Your University Name]
+- 🏫 Graduated from [MAE FHA LUANG UNIVERSITY]
 - 📖 Currently diving deep into [Current Technology/Framework]
 - 🎓 Completed courses on [Relevant Online Platforms]
 
-## 📊 My GitHub Adventure
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
-</p>
+
 
 ## 🌟 Projects I'm Proud Of
 ### 🔹 [Project Name 1]
