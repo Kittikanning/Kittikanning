@@ -24,11 +24,7 @@
 - 🌐 สนใจการพัฒนาเว็บแอปพลิเคชันและโมบายแอป
 - 🚀 พร้อนเรียนรู้และพัฒนาตนเองอย่างต่อเนื่อง
 
-### 📊 สถิติ GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
-</p>
+
 
 ### 🌟 โครงงานที่ภูมิใจ
 #### 🔹 [ชื่อโครงงาน 1]
