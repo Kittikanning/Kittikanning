@@ -1,62 +1,66 @@
-# 👋 Hello World! I'm [Your Name]
+# 👋 สวัสดี! I'm [ชื่อ-นามสกุล]
 
-## 🌱 Junior Developer | Tech Enthusiast | Lifelong Learner
+## 🎓 Software Engineering Student | Mae Fah Luang University
 
-![Coding GIF](https://media.giphy.com/media/배너_짧은_gif/giphy.gif)
+![MFU Logo](https://upload.wikimedia.org/wikipedia/th/thumb/8/8c/Mae_Fah_Luang_University_Logo.png/200px-Mae_Fah_Luang_University_Logo.png)
 
-## 🚀 About Me
-- 💻 Fresh graduate passionate about software development
-- 🌍 Constantly learning and exploring new technologies
-- 🔍 Eager to grow and contribute to innovative projects
-- 📚 Turning coffee into code, one commit at a time!
+### 🚀 About Me
+- 📍 นักศึกษาวิศวกรรมซอฟต์แวร์ ชั้นปีที่ 3 มหาวิทยาลัยแม่ฟ้าหลวง
+- 💻 กำลังมองหาโอกาสฝึกงานด้านซอฟต์แวร์
+- 🌱 มุ่งมั่นพัฒนาทักษะการเขียนโปรแกรมและแก้ปัญหา
+- 🔍 สนใจเทคโนโลยีใหม่ๆ และการพัฒนาซอฟต์แวร์
 
-## 🛠️ My Tech Toolkit
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🛠️ ทักษะและเทคโนโลยี
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌈 Learning Journey
-- 🏫 Graduated from [MAE FHA LUANG UNIVERSITY]
-- 📖 Currently diving deep into [Current Technology/Framework]
-- 🎓 Completed courses on [Relevant Online Platforms]
+### 🎯 เป้าหมายการฝึกงาน
+- 💼 ต้องการฝึกงานในตำแหน่ง Software Developer Intern
+- 🌐 สนใจการพัฒนาเว็บแอปพลิเคชันและโมบายแอป
+- 🚀 พร้อนเรียนรู้และพัฒนาตนเองอย่างต่อเนื่อง
 
+### 📊 สถิติ GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+</p>
 
+### 🌟 โครงงานที่ภูมิใจ
+#### 🔹 [ชื่อโครงงาน 1]
+- คำอธิบายโครงงาน
+- เทคโนโลยีที่ใช้
+- บทบาทและความสำเร็จ
 
-## 🌟 Projects I'm Proud Of
-### 🔹 [Project Name 1]
-- Brief description of a personal or academic project
-- Technologies used
-- What I learned from this project
+#### 🔹 [ชื่อโครงงาน 2]
+- คำอธิบายโครงงาน
+- เทคโนโลยีที่ใช้
+- บทบาทและความท้าทาย
 
-### 🔹 [Project Name 2]
-- Another project showcasing your skills
-- Challenges overcome
-- Skills developed
-
-## 🤝 Let's Connect!
+### 🤝 ติดต่อ
 <p align="center">
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:your.email@mfu.ac.th">
+    <img src="https://img.shields.io/badge/Email-ติดต่อ-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-## 💬 My Coding Mantra
-> "I'm not a great programmer; I'm just a good programmer with great habits." - Kent Beck
+### 💬 คำคมประจำใจ
+> "การเรียนรู้คือพลังที่ยิ่งใหญ่ที่สุด" - Unknown
 
 ---
-### 🔍 Open to Opportunities
-**Seeking:** 
-- Junior Developer Roles
-- Internships
-- Learning Opportunities
+### 🔍 กำลังมองหาโอกาส
+**สนใจ:**
+- ฝึกงานด้าน Software Development
+- โอกาสเรียนรู้เทคโนโลยีใหม่ๆ
+- การพัฒนาทักษะเชิงปฏิบัติ
 
-*Last updated: [Current Month Year]*
+*อัปเดตล่าสุด: [เดือนปัจจุบัน]*
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
