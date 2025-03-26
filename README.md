@@ -1,4 +1,4 @@
-# 👋 สวัสดี! I'm [Kittikan Kiti]
+# 👋 HELLO! I'm [Kittikan Kiti]
 
  🎓 Software Engineering Student | Mae Fah Luang University
 
