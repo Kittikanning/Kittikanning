@@ -1,6 +1,6 @@
 # 👋 สวัสดี! I'm [Kittikan Kiti]
 
-## 🎓 Software Engineering Student | Mae Fah Luang University
+ 🎓 Software Engineering Student | Mae Fah Luang University
 
 
 
