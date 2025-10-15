@@ -5,7 +5,7 @@
 
 
 ### 🚀 About Me
-- 📍 3rd year software engineering student, Mae Fah Luang University
+- 📍 4th year software engineering student, Mae Fah Luang University
 - 💻 Looking for software internship opportunities
 - 🌱 Committed to developing programming and problem-solving skills
 - 🔍 Interested in new technologies and software development
